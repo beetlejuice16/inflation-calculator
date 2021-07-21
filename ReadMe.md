@@ -2,4 +2,5 @@
 
 ## TO DO
 
-- Get price indexes for the past ~ 20 years
+- ~~Get price indexes for the past ~ 20 years~~
+- Clean price index data
