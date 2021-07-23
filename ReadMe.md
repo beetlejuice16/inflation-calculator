@@ -11,5 +11,5 @@ Trying to program a calculator that will:
 - ~~Get price indexes for the past ~ 20 years~~
 - ~~Clean price index data~~
 - ~~Decide whether to export cleaned data or keep the cleaning algorithm in code.~~
-- ~~Get years that want to be compared as well as the amount of money that should be converted.
+- ~~Get years that want to be compared as well as the amount of money that should be converted.~~
 - Mostly done just have to figure out how to make this into a simple runnable python script not a notebook.
