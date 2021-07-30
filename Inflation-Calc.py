@@ -32,9 +32,11 @@ def run():
 
     final_amount = round(inflation.convert(), 2)
 
-    print(f'{amount} euros in {ref} is worth {final_amount} euros in {tar}.')
-    print('Press ctrl + c to exit.')
+    return ref, tar, amount, final_amount
 
-    run()
 
-run()
+def main():
+    ref, tar, amount, final_amount = run()
+    print(f'{amount} in {ref} is worth {final_amount} in {tar}.')
+
+main()
