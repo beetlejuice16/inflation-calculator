@@ -39,4 +39,5 @@ def main():
     ref, tar, amount, final_amount = run()
     print(f'{amount} in {ref} is worth {final_amount} in {tar}.')
 
-main()
+if __name__ = "__main__":
+    main()
